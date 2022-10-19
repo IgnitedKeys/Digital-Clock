@@ -1,0 +1,28 @@
+body{
+    font-family: 'Silkscreen', cursive;
+}
+.container {
+    background: #333333;
+    width: 50%;
+    min-width: 500px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 5%;
+    
+}
+
+.clock-time,
+.clock-ampm,
+.date,
+.greeting {
+
+    font-size: 30px;
+    color: #eeeeee;
+    
+}
+
+.clock-time {
+    font-size: 48px;
+}
